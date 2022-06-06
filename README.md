@@ -166,8 +166,9 @@ Reset Button
 ```
 ## OUTPUT:
 
-![image](https://user-images.githubusercontent.com/75235293/169450655-625c51e5-e84e-40c8-a731-6256e344d636.png)
-![image](https://user-images.githubusercontent.com/75235293/169450717-6fbf72ee-28c8-463b-8fa1-1ec6c1e336ab.png)
+![6 1](https://user-images.githubusercontent.com/75235426/172128471-479e17f0-04c5-4bc7-a641-b494acb8e46a.jpeg)
+![s1](https://user-images.githubusercontent.com/75235426/172128413-2072d6ec-4b39-45a5-babc-dbd3dea6b6a5.jpeg)
+![s2](https://user-images.githubusercontent.com/75235426/172128428-3a2d1749-f81d-46e1-82ab-773ff1ac814a.jpeg)
 
 
 ## RESULT:
